@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+![Cute cat](https://clips-media-assets2.twitch.tv/VXLknGOgUuvWaOuyR6QsMA/AT-cm%7CVXLknGOgUuvWaOuyR6QsMA-preview-480x272.jpg)
 <!--
 **samuel-satter/samuel-satter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
