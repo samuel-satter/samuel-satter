@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samuel-satter&theme=transparent&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-satter&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 -->
