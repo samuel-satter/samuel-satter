@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align=center>
+  <a href="https://linkedin.com/in/samuel-satter" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-satter&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 -->
